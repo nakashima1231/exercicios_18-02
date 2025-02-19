@@ -12,9 +12,8 @@ int main() {
   char proxima8 = letra + 8;
   char proxima9 = letra + 9;
   char proxima10 = letra + 10;
-  char proxima11= letra + 11;
   
-  printf("Letra: %c\n", proxima);
+  printf("Letra: %c\n", letra);
   printf("Letra: %c\n", proxima2);
   printf("Letra: %c\n", proxima3);
   printf("Letra: %c\n", proxima4);
@@ -24,6 +23,5 @@ int main() {
   printf("Letra: %c\n", proxima8);
   printf("Letra: %c\n", proxima9);
   printf("Letra: %c\n", proxima10);
-  printf("Letra: %c\n", proxima11);
   return 0;
 }  
